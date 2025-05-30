@@ -14,7 +14,7 @@ body{
 /* Personalización del Encabezado y su contenido */
 
 header{
-    background-color: #A0522D;
+    background-color: #1e004b8c;
     color: white;
     text-align: center;
     padding: 2em 0;
@@ -54,9 +54,9 @@ main{
 
 .category h2{
     font-family: 'Merriweather', serif;
-    color: #8B4513;
+    color: black;
     font-size: 2em;
-    border-bottom: 2px solid #D2B48C;
+    border-bottom: 2px solid #1e004b8c;
     padding-bottom: 0.5em;
     margin-bottom: 1.5em;
     text-align: center;
@@ -91,7 +91,7 @@ main{
 }
 
 .product-card h3 {
-    color: #4caf50;
+    color: #1e004b8c;
     font-size: 1.5em;
     margin-top: 0;
     margin-bottom: 0.5em;
@@ -119,7 +119,7 @@ main{
     border: none;
     color: white;
     font-size: 20px;
-    background-color: #A0522D;
+    background-color: #1e004b8c;
     box-shadow: 0 5px 8px rgba(0, 0, 0, 0.5);
     border-radius: 5px;
     }
